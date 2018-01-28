@@ -3,12 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   ft_list_remove_if.c                                :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: jelefebv <jelefebv@student.42.fr>          +#+  +:+       +#+        */
+/*   By: mdamba <marvin@42.fr>                      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2015/04/23 16:37:22 by jelefebv          #+#    #+#             */
-/*   Updated: 2015/04/23 16:37:50 by jelefebv         ###   ########.fr       */
+/*   Created: 2018/01/28 15:52:01 by mdamba            #+#    #+#             */
+/*   Updated: 2018/01/28 15:52:04 by mdamba           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
 
 #include "ft_list.h"
 #include <stdlib.h>
